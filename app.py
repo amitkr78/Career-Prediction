@@ -477,7 +477,7 @@ def main():
   html3="""
 
     <div style="color:yellow; margin:80px; text-align:center;">
-      Developed with ❤️ by <a href=https://github.com/Amitkumarsingh78> Amit kumar singh</a>
+      Developed by <a href=https://github.com/Amitkumarsingh78> Amit kumar singh</a>
     </div>
       """
 
