@@ -400,7 +400,7 @@ def main():
 
   workshops = st.selectbox(
     'Workshops Attended',
-    ('Testing', 'database security', 'game development', 'data science', 'system designing', 'web technologies')
+    ('Testing', 'database security', 'game development', 'data science', 'system designing', 'hacking' ,'cloud computing','web technologies')
     )
   st.write('You selected: **{}**' .format(workshops))
   
